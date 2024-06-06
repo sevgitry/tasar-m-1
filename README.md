@@ -1,4 +1,4 @@
-# tasarim-1
+# ARDUINO TABANLI AKILLI SU TÜKETİM İZLEME SİSTEMİ
 ARDUINO TABANLI AKILLI SU TÜKETİM İZLEME SİSTEMİ
 
  Bu proje, su tüketimini ölçmek ve takip etmek amacıyla Arduino mikrodenetleyici kullanarak bir donanım tasarımı geliştirmeyi hedefler. Donanım tasarımı, düşük enerji tüketimine sahip sensörlerin entegrasyonunu içerir. Arduino mikrodenetleyici, sensörlerden gelen verileri işleyerek günlük su tüketimini hesaplar ve kullanıcıya anlık bilgiler sunar. Projede yer alan LCD ekran, kullanıcılara günlük su tüketim istatistikleri ve hedeflere ulaşma ilerlemesi gibi bilgileri görsel olarak iletilir. Projenin öne çıkan özelliklerinden biri de düşük enerji tüketimi ile çalışarak kullanıcı dostu bir deneyim sunmasıdır. Bu proje, bireylerin su içme alışkanlıklarını takip etmelerini ve sağlıklı yaşam için gerekli su tüketimini arttırmalarını destekleyen kapsamlı bir sistem sunmayı amaçlamaktadır.
